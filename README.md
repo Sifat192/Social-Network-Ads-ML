@@ -34,6 +34,20 @@ The dataset used is the **Social Network Ads Dataset**.
 7. Model Evaluation
 
 ---
+## Classification Workflow
+
+The diagram outlines data cleaning, exploratory analysis,
+feature engineering, and train-test splitting, followed by
+logistic regression, model evaluation, and purchase prediction.
+
+<p align="center">
+  <img src="social-network-ads-workflow.png"
+       alt="Social network ads classification and purchase prediction workflow"
+       width="500">
+</p>
+
+[View full-size diagram](social-network-ads-workflow.png)
+---
 
 ## Technologies Used
 
